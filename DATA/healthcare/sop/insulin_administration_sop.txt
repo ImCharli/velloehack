@@ -1,0 +1,26 @@
+SYNTHETIC HEALTHCARE DOCUMENT — DEMONSTRATION ONLY
+No real patients or clinical identifiers are present.
+
+Document ID: insulin-administration-sop
+Title: Synthetic Insulin Administration SOP
+Version: 2.0
+Status: ACTIVE
+Effective date: 2026-02-01
+Document type: Internal SOP
+Allowed roles: clinician, nurse, admin
+
+Section: Pre-administration verification
+
+Before synthetic medication administration, the authorized staff member must
+verify the intended patient, medication, dose, route, and scheduled time against
+the applicable order.
+
+Section: Documentation
+
+The administration event must be documented in the designated operational
+record after completion.
+
+Section: Escalation
+
+Any discrepancy between the order and the medication available for
+administration must be escalated according to the hospital safety workflow.

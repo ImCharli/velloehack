@@ -1,0 +1,20 @@
+SYNTHETIC HEALTHCARE DOCUMENT — DEMONSTRATION ONLY
+No real patients or clinical identifiers are present.
+
+Document ID: payer-coverage-policy
+Title: Synthetic Payer Coverage Policy
+Version: 1.4
+Status: ACTIVE
+Effective date: 2026-03-01
+Document type: Payer Policy
+Allowed roles: clinician, operations, admin
+
+Section: Prior authorization
+
+The synthetic robotic procedure described in this policy requires prior
+authorization before the procedure can be scheduled for covered members.
+
+Section: Documentation
+
+The authorization request must include the documentation specified by the
+payer policy. This document does not determine clinical appropriateness.

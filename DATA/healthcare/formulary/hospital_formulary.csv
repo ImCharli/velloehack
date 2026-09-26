@@ -1,0 +1,7 @@
+Medication,Population,Weight_Range,Recommended_Dose,Status,Effective_Date
+Drug-A,Adult,<50kg,10mg,Active,2026-01-01
+Drug-A,Adult,50-80kg,20mg,Active,2026-01-01
+Drug-A,Adult,>80kg,30mg,Active,2026-01-01
+Drug-B,Adult,<60kg,5mg,Active,2026-01-01
+Drug-B,Adult,60-90kg,10mg,Active,2026-01-01
+Drug-B,Adult,>90kg,15mg,Active,2026-01-01

@@ -1,0 +1,28 @@
+SYNTHETIC HEALTHCARE DOCUMENT — DEMONSTRATION ONLY
+No real patients or clinical identifiers are present.
+
+Document ID: diabetes-guideline
+Title: Synthetic Type 2 Diabetes Treatment Guideline
+Version: 3.0
+Status: SUPERSEDED
+Effective date: 2025-01-01
+Superseded by: Version 4.0
+Document type: Clinical Guideline
+Allowed roles: clinician, admin
+
+Section: First-line treatment
+
+For the synthetic adult Type 2 diabetes population described in this guideline,
+Treatment A is recommended as the first-line pharmacological option when no
+contraindication is documented.
+
+Section: Escalation
+
+If the synthetic patient does not achieve the target defined by the treating
+team, the clinician should consider escalation according to the applicable
+clinical pathway.
+
+Section: Evidence limitation
+
+This synthetic document does not contain pediatric dosing guidance, patient-
+specific contraindication assessment, or individualized prescribing advice.

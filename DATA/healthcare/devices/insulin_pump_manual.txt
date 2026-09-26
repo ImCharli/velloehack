@@ -1,0 +1,21 @@
+SYNTHETIC HEALTHCARE DOCUMENT — DEMONSTRATION ONLY
+No real patients or clinical identifiers are present.
+
+Document ID: insulin-pump-manual
+Title: Synthetic Insulin Pump Device Manual
+Version: 5.1
+Status: ACTIVE
+Effective date: 2026-04-01
+Document type: Device Manual
+Allowed roles: clinician, biomedical_engineer, admin
+
+Section: Pre-activation safety check
+
+Before activating the synthetic pump, confirm that the programmed delivery
+parameters match the authorized order and that the device status indicates
+normal operation.
+
+Section: Alarm handling
+
+If a critical alarm is displayed, stop the relevant workflow and follow the
+device troubleshooting procedure before resuming operation.

@@ -1,0 +1,20 @@
+SYNTHETIC HEALTHCARE DOCUMENT — DEMONSTRATION ONLY
+No real patients or clinical identifiers are present.
+
+Document ID: medication-safety-policy
+Title: Synthetic Medication Safety Policy
+Version: 1.0
+Status: ACTIVE
+Effective date: 2026-01-15
+Document type: Internal Policy
+Allowed roles: clinician, nurse, operations, admin
+
+Section: High-alert medication
+
+High-alert medications require the verification controls defined by the
+applicable medication administration SOP before administration.
+
+Section: Reporting
+
+Medication safety incidents and near misses must be reported through the
+synthetic incident reporting workflow.
